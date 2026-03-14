@@ -1,6 +1,6 @@
 <?php
-$p = 10; // panjang
-$l = 5;  // lebar
+$p = 100; // panjang
+$l = 50;  // lebar
 $luas = $p * $l;
 ?>
 <html>
