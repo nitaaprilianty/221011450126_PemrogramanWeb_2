@@ -14,3 +14,5 @@ if ($scan == false) {
     $status = "";} echo "\$var = array(1,2,3,4,5,6,7)";echo "<br>";echo "Variabel \$var $status merupakan array";?>
 </BODY>
 </HTML>
+
+//p7
