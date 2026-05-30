@@ -10,7 +10,7 @@ if (isset($_POST['Login'])) {
     $pass = $_POST['pass'];
 
    //periksa login
-    if ($user == "rahadian" && $pass == "123") {
+    if ($user == "Nita" && $pass == "123") {
         // Menciptakan session
         $_SESSION['login'] = $user;
         
